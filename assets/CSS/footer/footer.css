@@ -1,0 +1,16 @@
+footer{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-myLink {
+    padding: .5rem;
+}
+
+.footer-copy{
+    color: var(--white);
+
+}

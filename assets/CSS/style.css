@@ -1,0 +1,24 @@
+@import url(login/login.css);
+@import url(footer/footer.css);
+
+:root{
+    --white: #FFF;
+    --green: #A1C298;
+    --red: #FA7070;
+    --font:'Poppins', sans-serif;
+}
+
+body{
+    background: var(--green);
+    font-family: var(--font);
+    padding: 60px;
+    
+
+}
+
+@media screen and (max-width: 768px) {
+    body{
+        padding: 1rem;
+    }
+    
+}
