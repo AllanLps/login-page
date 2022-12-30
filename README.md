@@ -2,10 +2,11 @@
 
 Olá! 
 
-Hoje você está vendo uma pagina de login simples da empresa Trip.com, uma agência ficticia de viagens que eu criei do absoluto zero, inclusive criei o design também!  
+Hoje venho compartilhar um projeto que desenvolvi, uma pagina de login simples da empresa Trip.com, uma agência ficticia de viagens que eu criei do absoluto zero, inclusive criei o design também!  
 
 Eu queria criar algo 100% da minha cabeça e além disso, treinar um pouco mais meus conhecimentos em HTML e CSS, o projeto não teve uso de nenhuma linguagem de programação e foi feito somente para treinar habilidades como; 
 
+- HTML e CSS.
 - Displays CSS (Flex, Grid, Grid-Columns etc).
 - Animações CSS com Keyframes.
 - Resposividade com media queries.
